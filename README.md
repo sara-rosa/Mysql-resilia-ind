@@ -15,4 +15,7 @@
 
 <hr>
 
+### Modelagem do banco:
+
+![foto-atual](https://user-images.githubusercontent.com/112405656/217935918-46fb77b1-9d54-46aa-aebe-fa4e3faece2c.png)
 

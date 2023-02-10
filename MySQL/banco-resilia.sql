@@ -1,5 +1,5 @@
 create database sistema-resilia;
-use resilia;
+use sistema-resilia;
 
 -- tabela cursos
 create table cursos (
